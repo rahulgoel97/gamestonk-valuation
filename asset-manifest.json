@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gamestonk-valuation/static/css/main.db303b98.chunk.css",
+    "main.js": "/gamestonk-valuation/static/js/main.39d2c842.chunk.js",
+    "main.js.map": "/gamestonk-valuation/static/js/main.39d2c842.chunk.js.map",
+    "runtime-main.js": "/gamestonk-valuation/static/js/runtime-main.5e0eae7a.js",
+    "runtime-main.js.map": "/gamestonk-valuation/static/js/runtime-main.5e0eae7a.js.map",
+    "static/js/2.e73806a9.chunk.js": "/gamestonk-valuation/static/js/2.e73806a9.chunk.js",
+    "static/js/2.e73806a9.chunk.js.map": "/gamestonk-valuation/static/js/2.e73806a9.chunk.js.map",
+    "static/js/3.eced563f.chunk.js": "/gamestonk-valuation/static/js/3.eced563f.chunk.js",
+    "static/js/3.eced563f.chunk.js.map": "/gamestonk-valuation/static/js/3.eced563f.chunk.js.map",
+    "index.html": "/gamestonk-valuation/index.html",
+    "static/css/main.db303b98.chunk.css.map": "/gamestonk-valuation/static/css/main.db303b98.chunk.css.map",
+    "static/js/2.e73806a9.chunk.js.LICENSE.txt": "/gamestonk-valuation/static/js/2.e73806a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0eae7a.js",
+    "static/js/2.e73806a9.chunk.js",
+    "static/css/main.db303b98.chunk.css",
+    "static/js/main.39d2c842.chunk.js"
+  ]
+}
