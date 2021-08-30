@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/gamestonk-valuation/static/css/main.627f58cc.chunk.css",
-    "main.js": "/gamestonk-valuation/static/js/main.39d2c842.chunk.js",
-    "main.js.map": "/gamestonk-valuation/static/js/main.39d2c842.chunk.js.map",
-    "runtime-main.js": "/gamestonk-valuation/static/js/runtime-main.5e0eae7a.js",
-    "runtime-main.js.map": "/gamestonk-valuation/static/js/runtime-main.5e0eae7a.js.map",
-    "static/js/2.e73806a9.chunk.js": "/gamestonk-valuation/static/js/2.e73806a9.chunk.js",
-    "static/js/2.e73806a9.chunk.js.map": "/gamestonk-valuation/static/js/2.e73806a9.chunk.js.map",
-    "static/js/3.eced563f.chunk.js": "/gamestonk-valuation/static/js/3.eced563f.chunk.js",
-    "static/js/3.eced563f.chunk.js.map": "/gamestonk-valuation/static/js/3.eced563f.chunk.js.map",
+    "main.css": "/gamestonk-valuation/static/css/main.1158c561.chunk.css",
+    "main.js": "/gamestonk-valuation/static/js/main.52b59bbb.chunk.js",
+    "main.js.map": "/gamestonk-valuation/static/js/main.52b59bbb.chunk.js.map",
+    "runtime-main.js": "/gamestonk-valuation/static/js/runtime-main.35542691.js",
+    "runtime-main.js.map": "/gamestonk-valuation/static/js/runtime-main.35542691.js.map",
+    "static/css/2.91a6824c.chunk.css": "/gamestonk-valuation/static/css/2.91a6824c.chunk.css",
+    "static/js/2.89ccdf1f.chunk.js": "/gamestonk-valuation/static/js/2.89ccdf1f.chunk.js",
+    "static/js/2.89ccdf1f.chunk.js.map": "/gamestonk-valuation/static/js/2.89ccdf1f.chunk.js.map",
+    "static/js/3.235529a5.chunk.js": "/gamestonk-valuation/static/js/3.235529a5.chunk.js",
+    "static/js/3.235529a5.chunk.js.map": "/gamestonk-valuation/static/js/3.235529a5.chunk.js.map",
     "index.html": "/gamestonk-valuation/index.html",
-    "static/css/main.627f58cc.chunk.css.map": "/gamestonk-valuation/static/css/main.627f58cc.chunk.css.map",
-    "static/js/2.e73806a9.chunk.js.LICENSE.txt": "/gamestonk-valuation/static/js/2.e73806a9.chunk.js.LICENSE.txt"
+    "static/css/2.91a6824c.chunk.css.map": "/gamestonk-valuation/static/css/2.91a6824c.chunk.css.map",
+    "static/css/main.1158c561.chunk.css.map": "/gamestonk-valuation/static/css/main.1158c561.chunk.css.map",
+    "static/js/2.89ccdf1f.chunk.js.LICENSE.txt": "/gamestonk-valuation/static/js/2.89ccdf1f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gamestonk-valuation/static/media/roboto-latin-900italic.cb5ad999.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e0eae7a.js",
-    "static/js/2.e73806a9.chunk.js",
-    "static/css/main.627f58cc.chunk.css",
-    "static/js/main.39d2c842.chunk.js"
+    "static/js/runtime-main.35542691.js",
+    "static/css/2.91a6824c.chunk.css",
+    "static/js/2.89ccdf1f.chunk.js",
+    "static/css/main.1158c561.chunk.css",
+    "static/js/main.52b59bbb.chunk.js"
   ]
 }
